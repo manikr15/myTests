@@ -1,0 +1,23 @@
+{
+  "name": "new_ip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manikr15/myTests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/manikr15/myTests/issues"
+  },
+  "homepage": "https://github.com/manikr15/myTests#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.65.0",
+    "@types/node": "^26.6.6"
+  }
+}
